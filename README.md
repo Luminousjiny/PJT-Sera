@@ -23,7 +23,10 @@
 > 팀명: 장코   
 > 개발 기간: 2021.02.22 ~ 2021.04.09 (약 7주)        
 
+### 🎬 프로젝트 소개영상
+https://youtu.be/Jcv6Phk9I3I
 
+<br/>
 
 ### 📃문서  
 > [기획 문서](https://www.notion.so/PJT-2a4c024fa30c4c919aee328b7e09e64c)   
